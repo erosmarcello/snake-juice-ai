@@ -46,15 +46,14 @@ You can learn more straight from the man himself [HERE!](https://www.youtube.com
 
 ## Software Requirements
 - Neurosity SDK
-- Python 3.x
 - JavaScript
-- Visual Studio Code
-- Git and GitHub
-- Relevant Python libraries: SciPy, Pandas, Scikit-learn, Plotly, etc.
+- Python 3.x
+- Visual Studio Code (or IDE of choice) 
+- Git / GitHub
+- Relevant Python libraries for raw unprocessed EEG data down the line: SciPy, Pandas, Scikit-learn, Plotly, etc. 
 
 ## Safety Warning
-- **Medical Supervision**: It is highly recommended to undertake this project under medical supervision.
-- **Health Risks**: Be aware of the health risks associated with prolonged fasting.
+- **Medical Supervision**: It is highly recommended to undertake this project under medical supervision. AKA: "Consult your Drug Dealing Doctor..." -Cole Robinsion
 
 ## Data Collection
 - **Baseline Data**: Collect baseline EEG data for comparison.
@@ -64,6 +63,18 @@ You can learn more straight from the man himself [HERE!](https://www.youtube.com
 - **Preprocessing**: Clean and preprocess the collected data.
 - **Statistical Analysis**: Perform statistical analysis to identify significant patterns.
 - **Machine Learning**: Use machine learning for predictive analysis and pattern recognition.
+
+##  Setting Up Neurosity SDK
+
+### Install Node.js
+Neurosity SDK is often based on Node.js, so ensure it's installed on your system.
+
+### Install the SDK
+Use npm (Node Package Manager) to install the Neurosity SDK. In your terminal, you can typically run:
+
+```bash
+npm install @neurosity/sdk
+```
 
 ## Contributing
 Contributions to this project are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
