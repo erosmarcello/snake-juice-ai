@@ -28,6 +28,8 @@ A central component of the Snake Diet is "Snake Juice," a homemade electrolyte d
 
 The diet typically starts with an initial fasting phase that can last for 48 hours or more, followed by a feeding window where specific foods are consumed, and then a return to fasting. The durations of these phases can vary based on individual goals and tolerance.
 
+You can learn more straight from the man himself [HERE!](https://www.youtube.com/@SnakeDiet)
+
 ## Installation
 1. **Neurosity Crown Setup**: Follow the manufacturer's guidelines to set up the Neurosity Crown.
 2. **Software Setup**: Install Python, JavaScript, Visual Studio Code, and relevant libraries (SciPy, Pandas, Scikit-learn, Plotly).
