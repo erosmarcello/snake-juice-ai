@@ -33,7 +33,7 @@ You can learn more straight from the man himself [HERE!](https://www.youtube.com
 ## Installation
 1. **Neurosity Crown Setup**: Follow the manufacturer's guidelines to set up the Neurosity Crown.
 2. **Software Setup**: Install Python, JavaScript, Visual Studio Code, and relevant libraries (SciPy, Pandas, Scikit-learn, Plotly).
-3. **Clone the Repository**: git clone [https://www.github.com/erosmarcello/snakejuiceai]
+3. **Clone the Repository**: [git clone](https://www.github.com/erosmarcello/snakejuiceai)
 
 ## Usage
 - **Script Execution**: Run the provided scripts for baseline data collection, continuous monitoring, and data analysis.
